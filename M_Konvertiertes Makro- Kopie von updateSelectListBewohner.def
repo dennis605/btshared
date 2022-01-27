@@ -1,0 +1,25 @@
+Option Compare Database
+Option Explicit
+
+'------------------------------------------------------------
+' Kopie_von_updateSelectListBewohner
+'
+'------------------------------------------------------------
+Function Kopie_von_updateSelectListBewohner()
+On Error GoTo Kopie_von_updateSelectListBewohner_Err
+
+    DoCmd.SearchForRecord , "", acFirst, "[idBewohner] = " & Str(Nz(Screen.ActiveControl, 0))
+
+
+Kopie_von_updateSelectListBewohner_Exit:
+    Exit Function
+
+Kopie_von_updateSelectListBewohner_Err:
+    MsgBox Error$
+    Resume Kopie_von_updateSelectListBewohner_Exit
+
+End Function
+
+Sub test()
+Str (5)
+End Sub

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Properties>
+  <CurrentDb context="0">
+    <AccessVersion name="AccessVersion" type="10" value="09.50" sort="1"/>
+    <AllowBuiltInToolbars name="AllowBuiltInToolbars" type="1" value="True" sort="1"/>
+    <AllowDatasheetSchema name="AllowDatasheetSchema" type="1" value="True" sort="1"/>
+    <AllowFullMenus name="AllowFullMenus" type="1" value="True" sort="1"/>
+    <AllowShortcutMenus name="AllowShortcutMenus" type="1" value="True" sort="1"/>
+    <AllowSpecialKeys name="AllowSpecialKeys" type="1" value="True" sort="1"/>
+    <AllowToolbarChanges name="AllowToolbarChanges" type="1" value="True" sort="1"/>
+    <ANSIQueryMode name="ANSI Query Mode" type="4" value="0" sort="1"/>
+    <AutoCompact name="Auto Compact" type="4" value="0" sort="1"/>
+    <CheckTruncatedNumFields name="CheckTruncatedNumFields" type="4" value="1" sort="1"/>
+    <ClearCacheonClose name="Clear Cache on Close" type="4" value="0" sort="1"/>
+    <ContinuousFormNavigationKeys name="Continuous Form Navigation Keys" type="4" value="0" sort="1"/>
+    <DefaultBackupLocation name="DefaultBackupLocation" type="10" value="C:\Users\Shadow\Documents\btplan\" sort="1"/>
+    <DesignWithData name="DesignWithData" type="1" value="True" sort="1"/>
+    <HasOfflineLists name="HasOfflineLists" type="3" value="70" sort="1"/>
+    <NavPaneCategory name="NavPane Category" type="4" value="0" sort="1"/>
+    <NavPaneClosed name="NavPane Closed" type="4" value="0" sort="1"/>
+    <NavPaneSortBy name="NavPane Sort By" type="4" value="1" sort="1"/>
+    <NavPaneViewBy name="NavPane View By" type="4" value="0" sort="1"/>
+    <NavPaneWidth name="NavPane Width" type="4" value="494" sort="1"/>
+    <NeverCache name="Never Cache" type="4" value="0" sort="1"/>
+    <PicturePropertyStorageFormat name="Picture Property Storage Format" type="4" value="0" sort="1"/>
+    <ProjVer name="ProjVer" type="3" value="142" sort="1"/>
+    <PublishUrl name="PublishUrl" type="10" value="https://d.docs.live.net/eaa1f02324a49db9/Dokumente/BTPlan3.accdb" sort="1"/>
+    <QueryTimeout name="QueryTimeout" type="3" value="60" sort="1"/>
+    <ShowNavigationPaneSearchBar name="Show Navigation Pane Search Bar" type="4" value="1" sort="1"/>
+    <ShowValuesinIndexed name="Show Values in Indexed" type="4" value="1" sort="1"/>
+    <ShowValuesinNonIndexed name="Show Values in Non-Indexed" type="4" value="1" sort="1"/>
+    <ShowValuesinRemote name="Show Values in Remote" type="4" value="0" sort="1"/>
+    <ShowValuesLimit name="Show Values Limit" type="4" value="1000" sort="1"/>
+    <ShowDocumentTabs name="ShowDocumentTabs" type="1" value="True" sort="1"/>
+    <StartUpShowDBWindow name="StartUpShowDBWindow" type="1" value="True" sort="1"/>
+    <StartUpShowStatusBar name="StartUpShowStatusBar" type="1" value="True" sort="1"/>
+    <ThemeResourceName name="Theme Resource Name" type="10" value="Office" sort="1"/>
+    <ThemedFormControls name="Themed Form Controls" type="4" value="1" sort="1"/>
+    <TrackNameAutoCorrectInfo name="Track Name AutoCorrect Info" type="10" value="-1" sort="1"/>
+    <UseBigIntforlinkingandimportingdata name="Use BigInt for linking and importing data" type="4" value="0" sort="1"/>
+    <UseDateTime2forlinkingandimportingdata name="Use DateTime2 for linking and importing data" type="4" value="0" sort="1"/>
+    <UseMicrosoftAccess2007compatiblecache name="Use Microsoft Access 2007 compatible cache" type="4" value="0" sort="1"/>
+    <UseAppIconForFrmRpt name="UseAppIconForFrmRpt" type="1" value="False" sort="1"/>
+    <UseMDIMode name="UseMDIMode" type="2" value="0" sort="1"/>
+    <WebDesignMode name="WebDesignMode" type="2" value="0" sort="1"/>
+  </CurrentDb>
+  <SummaryInfo context="2">
+    <Author name="Author" type="10" value="Dennis Schönig" sort="3"/>
+    <Title name="Title" type="10" value="BTPlan" sort="3"/>
+  </SummaryInfo>
+  <UserDefined context="3">
+    <DisplayAllViewsOnSharePointSite name="DisplayAllViewsOnSharePointSite" type="4" value="0" sort="4"/>
+  </UserDefined>
+  <ActiveVBProject context="4">
+    <HelpFile name="HelpFile" type="10" value="?" sort="5"/>
+    <Name name="Name" type="10" value="BTPlan" sort="5"/>
+  </ActiveVBProject>
+  <References context="6">
+    <Reference>
+      <Name value="DAO 12.0"/>
+      <FullPath value="%CommonProgramFiles%\Microsoft Shared\OFFICE16\ACEDAO.DLL"/>
+      <Position value="4"/>
+      <GUID value="{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}"/>
+      <Major value="12"/>
+      <Minor value="0"/>
+    </Reference>
+    <Reference>
+      <Name value="MSComctlLib 2.2"/>
+      <FullPath value="%SystemRoot%\System32\MSCOMCTL.OCX"/>
+      <Position value="5"/>
+      <GUID value="{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}"/>
+      <Major value="2"/>
+      <Minor value="2"/>
+    </Reference>
+    <Reference>
+      <Name value="stdole 2.0"/>
+      <FullPath value="%SystemRoot%\System32\stdole2.tlb"/>
+      <Position value="3"/>
+      <GUID value="{00020430-0000-0000-C000-000000000046}"/>
+      <Major value="2"/>
+      <Minor value="0"/>
+    </Reference>
+  </References>
+</Properties>
